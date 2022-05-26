@@ -1,2 +1,2 @@
 # GameShop-Java-SQL-CRUD
-Little application for practice Java & SQL.
+Little application using Java & SQL, and for personal practice.
